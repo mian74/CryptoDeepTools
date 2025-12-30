@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python 
 
 # based on code by 57fe, 2019
 # fe57.org/forum/thread.php?board=4&thema=1#1
